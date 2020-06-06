@@ -1,0 +1,19 @@
+{
+    "Recipes": [
+        {
+            "Title": "Recipe 1",
+            "Description": "Description 1",
+            "Image": "https://3.downloader.disk.yandex.ru/preview/f058c64f44599f48cdae8f86a82cd0eb4ce039c11054b140daa73b4d1d64967f/inf/3HbOBpJOGeQBo9K8AOsuuYQj_qJfEarWAxLaQTXF9GBuvM80PRmjPmZdC_WAl-_g7auChsuAQWB5q7N71Dqa1g%3D%3D?uid=230286232&filename=jo-sonn-M-tzZD5z720-unsplash.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=230286232&tknv=v2&size=3839x2195"
+        },
+        {
+            "Title": "Recipe 2",
+            "Description": "Description 2",
+            "Image": "https://2.downloader.disk.yandex.ru/preview/80622187b879cf7a114cb7b3748a121c9e574eccbdd7bc27af4e3f687f06b47d/inf/QUxj4z1cvkO8IsyaqYM-EYNOWbZRyiYlDiZB9NC92DPTsaktyeiDU0GhhYUxdLEbUc4Fhk8zcsKAOMf-Tnr6aw%3D%3D?uid=230286232&filename=alexandra-golovac-hTI5A21l0bk-unsplash.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=230286232&tknv=v2&size=3839x2195"
+        },
+        {
+            "Title": "Recipe 3",
+            "Description": "Description 3",
+            "Image": "https://2.downloader.disk.yandex.ru/preview/f08d4acd449749c4cc7687e87308e9b2ce83e02dc6a77ca9ab5ac47590cab519/inf/cw-kuZrU5ffht5OzuXT9TAdh10973Jj53z7L8sUQiT2zKfyQJ9yZe5XYhbrp-VSwRev1AcpCAhe5pRacbRHHVw%3D%3D?uid=230286232&filename=monika-grabkowska-N-xhCO5gY7s-unsplash.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=230286232&tknv=v2&size=3839x2195"
+        }
+    ]
+}
